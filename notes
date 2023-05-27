@@ -1,0 +1,56 @@
+1. Strona główna:
+Powinna zawierać wyszukiwarkę, kategorie usług, oraz sekcje z wyróżnionymi ogłoszeniami i polecanych dostawcami usług.
+Wyszukiwarka: Użytkownik powinien móc wpisać typ usługi, której szuka oraz lokalizację.
+Kategorie usług: Lista kategorii (DJ, Fotograf, Catering, itp.), z możliwością wyboru przez użytkownika.
+Wyróżnione ogłoszenia: Wyświetl listę wyróżnionych ogłoszeń z miniaturą zdjęcia, krótkim opisem usługi, oceną i lokalizacją.
+
+2. Kategoria usług:
+Po wybraniu konkretnej kategorii, użytkownik powinien zobaczyć listę dostawców usług w tej kategorii, z możliwością sortowania i filtrowania wyników. Wyróżnione ogłoszenia powinny być widoczne na górze listy.
+Lista dostawców usług: Każdy element na liście powinien zawierać miniaturę zdjęcia, krótki opis usługi, ocenę i lokalizację. Wyróżnione ogłoszenia powinny być na górze listy.
+Filtry: Użytkownik powinien mieć możliwość filtrowania wyników wg. lokalizacji, oceny, ceny, dostępności daty, itp.
+
+3. Profil dostawcy usług:
+Profil powinien zawierać informacje o dostawcy, opisy oferowanych usług, portfolio, opinie klientów, dane kontaktowe oraz informacje o dostępności. Dostawcy usług powinni mieć możliwość zarządzania swoim profilem za pośrednictwem aplikacji.
+Nazwa dostawcy, typ usługi, ocena, lokalizacja.
+Galeria zdjęć / portfolio.
+Szczegółowy opis usługi, ceny, dostępność.
+Informacje kontaktowe.
+Przycisk do dodania do ulubionych / zapisania profilu.
+
+4. Strona płatności:
+Dostawcy usług będą musieli przejść na stronę płatności, aby dokonać subskrypcji lub zapłacić za wyróżnienie swojego ogłoszenia. Na tej stronie powinny znajdować się informacje o różnych dostępnych planach i opcjach wyróżnienia.
+Lista dostępnych planów subskrypcji i opcji wyróżnienia.
+Formularz płatności z polami takimi jak: imię i nazwisko, adres, dane karty kredytowej/debetowej.
+
+5. Strona administracyjna dla dostawców usług:
+Tutaj dostawcy usług mogą zarządzać swoimi ogłoszeniami, subskrypcją, płatnościami, opiniami klientów itp.
+Zarządzanie ogłoszeniami: przyciski do dodawania / edycji / usuwania ogłoszeń.
+Zarządzanie płatnościami: wyświetl status aktualnej subskrypcji, historię płatności, opcję odnowienia / anulowania subskrypcji.
+Zarządzanie opiniami: przeglądaj i odpowiadaj na opinie użytkowników.
+
+6. Profil użytkownika:
+Użytkownicy powinni mieć możliwość śledzenia swoich ulubionych dostawców usług, zarządzania swoimi danymi, zapisywania ogłoszeń itp.
+Lista ulubionych / zapisanych dostawców usług.
+Opcje do zarządzania danymi konta, takie jak zmiana adresu e-mail, hasła itp.
+Opcje do kontaktu z obsługą klienta / zgłaszania problemów.
+
+7. Formularz dodawania / edycji ogłoszeń:
+Pola do wprowadzenia nazwy usługi, szczegółowego opisu, ceny, dostępności.
+Opcja do dodawania zdjęć.
+Opcja do wyboru kategorii usług.
+Opcja do wprowadzenia danych kontaktowych i lokalizacji.
+Przycisk do zapisania / opublikowania ogłoszenia.
+
+8. Strona pomocy / FAQ:
+Strona ta może zawierać odpowiedzi na często zadawane pytania, informacje o korzystaniu z aplikacji, oraz dane kontaktowe do obsługi klienta.
+Lista najczęściej zadawanych pytań i odpowiedzi na nie.
+Opcje do kontaktu z obsługą klienta / zgłaszania problemów.
+
+9. Strona regulaminu i polityki prywatności:
+W celu zabezpieczenia siebie i swoich użytkowników, powinna istnieć strona z regulaminem i polityką prywatności, która jasno określa zasady korzystania z aplikacji.
+Tekst regulaminu i polityki prywatności.
+
+10. Strona logowania/rejestracji:
+W celu zarządzania swoim profilem, dostawcy usług i użytkownicy muszą mieć możliwość założenia konta i logowania się do aplikacji.
+Pola do wprowadzenia nazwy użytkownika / adresu e-mail i hasła.
+Przyciski do zalogowania, rejestracji, odzyskiwania zapomnianego hasła.
